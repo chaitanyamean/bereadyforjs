@@ -1,0 +1,36 @@
+[
+    {
+      "topic":"Java Script",
+      "response": [
+        {
+          "question": "What is hoisting",
+          "answer": "this is hoisting",
+          "articles": [
+            "https://www.geeksforgeeks.org/javascript-hoisting/#:~:text=In%20JavaScript%2C%20Hoisting%20is%20the,scope%20is%20global%20or%20local.",
+            "https://betterprogramming.pub/hoisting-in-javascript-ec179ed2b3d8"
+          ]
+        },
+        {
+            "question": "What is difference between == and ===",
+            "answer": "Both are comparison operators. The difference between both the operators is that,“==” is used to compare values whereas, “ === “ is used to compare both value and types.",
+            "articles": [
+              "https://www.w3schools.com/js/js_comparisons.asp",
+              "https://stackoverflow.com/questions/523643/difference-between-and-in-javascript"
+            ]
+          }
+      ]
+    },
+      {
+        "topic":"Java",
+        "response": [
+          {
+            "question": "What is hoisting",
+            "answer": "this is hoisting",
+            "articles": [
+              "https://www.geeksforgeeks.org/javascript-hoisting/#:~:text=In%20JavaScript%2C%20Hoisting%20is%20the,scope%20is%20global%20or%20local.",
+              "https://betterprogramming.pub/hoisting-in-javascript-ec179ed2b3d8"
+            ]
+          }
+        ]
+      }
+  ]
